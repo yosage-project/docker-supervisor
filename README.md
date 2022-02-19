@@ -11,7 +11,7 @@ Windows WSL2にて実験しています。
 
 - Apache2
 - PHP7.4
-- Laravel6
+- Laravel8
 - MariaDB
 
 MariaDBはqueueを`jobs`テーブルに溜めているだけなので、特にバージョンの指定はありません。
